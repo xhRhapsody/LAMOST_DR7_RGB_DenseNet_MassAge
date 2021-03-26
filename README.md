@@ -1,1 +1,1 @@
-# xhRhapsody-LAMOST_DR7_RGB_DenseNet_MassAge
+# LAMOST_DR7_RGB_DenseNet_MassAge
